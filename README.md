@@ -36,34 +36,42 @@ Simulation:
 MATLAB’s ODE45 solver used for numerical analysis.
 Input: Gravitational force, pendulum length, initial conditions.
 Output: Time-series data of angular displacement and velocity.
-Analysis:
+
+**Analysis:**
 Compared the natural frequency and oscillation speed.
 Visualized results through angular displacement and velocity graphs.
-Results
+
+**Results**
 Faster Oscillations with Heel Support:
 Shortened pendulum length increases natural frequency.
 Higher angular velocity observed due to faster oscillations.
 Periodic Sinusoidal Motion:
 Both conditions exhibit characteristic pendulum dynamics.
 Clear differences in frequency and velocity peaks.
-Future Directions
+
+**Future Directions**
 Experimental Validation:
 Conduct studies on human subjects to validate findings.
 Enhanced Models:
 Extend to multi-degree-of-freedom systems for greater realism.
 Broader Applications:
 Explore custom footwear and prosthetics for various mobility needs.
-Authors and Acknowledgments
-Authors: Ali Haider Khan, Prof. James Patton PhD, Prof. Wu Ming PhD.
+
+***Authors and Acknowledgments***
+
+***Authors: Ali Haider Khan, Prof. James Patton PhD, Prof. Wu Ming PhD.***
+
 Acknowledgments: Special thanks to Dr. Patton and Prof. Ming for their guidance and feedback, and to peers and family for their support.
-How to Use
-Software Requirements:
+
+**How to Use**
+*Software Requirements:*
 MATLAB (R2021 or later).
 Running Simulations:
 Load the provided MATLAB code.
 Input parameters for heel/no-heel conditions.
 Analyze the output graphs for angular displacement and velocity.
-References
+
+**8References:***
 Garcia-Gonzalez et al., Effects of Biomechanical Heel Support on Human Locomotion (2023).
 Smith and Clarke, Nonlinear Dynamics of Inverted Pendulum Systems (2014).
 Kim et al., Biomechanical Implications of Ankle Dynamics During Gait (2021).
