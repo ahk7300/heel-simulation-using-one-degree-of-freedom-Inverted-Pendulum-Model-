@@ -9,10 +9,12 @@ Without Heel Support: Full pendulum length.
 The study explores the biomechanical implications of these changes on natural frequency, oscillation speed, and angular velocity.
 
 **Key Features**
-Biomechanics Simulation:
+
+**Biomechanics Simulation:**
 Modeled the ankle joint as an inverted pendulum with one degree of freedom.
 Simulated dynamic behavior using MATLAB’s ODE45 solver.
-Two Conditions:
+
+**Two Conditions:**
 Heel Support: Shortens pendulum length, increasing oscillation frequency.
 No Heel Support: Full pendulum length, leading to slower oscillations.
 Graphical Analysis:
@@ -22,7 +24,8 @@ Applications
 Rehabilitation: Design heel-assisted therapies for gait training.
 Prosthetics: Optimize ankle-foot prostheses to mimic natural dynamics.
 Sports Biomechanics: Enhance athletic performance through customized footwear.
-Methodology
+
+**Methodology**
 Parameters:
 Gravitational acceleration: 9.81 m/s².
 Pendulum length:
