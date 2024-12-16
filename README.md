@@ -71,7 +71,7 @@ Load the provided MATLAB code.
 Input parameters for heel/no-heel conditions.
 Analyze the output graphs for angular displacement and velocity.
 
-**8References:***
+***References:***
 Garcia-Gonzalez et al., Effects of Biomechanical Heel Support on Human Locomotion (2023).
 Smith and Clarke, Nonlinear Dynamics of Inverted Pendulum Systems (2014).
 Kim et al., Biomechanical Implications of Ankle Dynamics During Gait (2021).
